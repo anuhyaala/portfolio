@@ -97,7 +97,12 @@ nav img {
 
 .skills {
   padding: 50px;
-  background-color: #fff;
+  background-color: #e0d7d7;
+}
+
+.skills img {
+  max-width: 100%; 
+  height: auto;
 }
 
 .skills h1 {
@@ -117,9 +122,43 @@ nav img {
   background-color: #ddd;
   color: #333;
   padding: 10px;
-  width: 60%;
+  width: 300%;
   margin: 0 auto;
 }
+
+.hello {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+
+
+.hello {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+
+
+.hello img {
+  width: 100px; 
+  height: auto; 
+
+
+.containers {
+  margin-left: 20px;
+}
+
+
+.containers h2 {
+  font-size: 24px; 
+  color: #333; 
+}
+
+.skillbar
+
 
 .portfolio {
   padding: 50px;
